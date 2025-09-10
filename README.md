@@ -24,4 +24,4 @@ Compact and fast tool for detecting failed logins and request spikes in server l
 Run the following command in the terminal:
 
 ```bash
-curl -s https://raw.githubusercontent.com/skilloo-coder/apl-analyzer/setup.sh | bash
+curl -s https://raw.githubusercontent.com/skilloo-coder/apl-analyzer/main/setup.sh | bash
