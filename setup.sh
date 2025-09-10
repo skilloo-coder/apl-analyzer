@@ -12,7 +12,7 @@ fi
 # Step 2: Clone analyzer repo
 if [ ! -d "$HOME/apl-analyzer" ]; then
     echo "Cloning analyzer repository..."
-    git clone https://github.com/YOUR_USERNAME/apl-analyzer.git $HOME/apl-analyzer
+    git clone https://github.com/skilloo-coder/apl-analyzer.git $HOME/apl-analyzer
 fi
 
 # Step 3: Build Docker image
